@@ -6,7 +6,7 @@ In this unit, we'll learn about how the web works and start thinking about the b
 
 Each of the following sections and lessons covers essential baseline knowledge.  Even if you have no intention of becoming a web developer, this material should help you gain a useful understanding of the moving parts involved in creating and serving content on the web.
 
-We will start by getting familiar with the internet and your own computer.  Next, we'll set up a development environment and learn about Git and GitHub. Then, we'll go over the basics of front-end technologies like HTML, CSS, and JavaScript before stepping into the back end with a brief foray that covers the basic concepts of back-end technologies.
+We will start by getting familiar with the internet and your computer.  Next, we'll set up a development environment and learn about Git and GitHub. Then, we'll go over the basics of front-end technologies like HTML, CSS, and JavaScript before stepping into the back end with a brief foray that covers the basic concepts of back-end technologies.
 
 By the end of this unit, you should not only understand how the web works but also be able to identify and differentiate between all the technologies that you will use to build your own web applications. You will be able to build a basic webpage, style it, and add minor elements of interactivity while working comfortably from the command line.
 
